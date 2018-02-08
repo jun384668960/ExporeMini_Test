@@ -1,0 +1,3 @@
+rtmp://live.hkstv.hk.lxdns.com/live/hks
+
+rtsp://218.204.223.237:554/live/1/67A7572844E51A64/f68g2mj7wjua3la7.sdp
